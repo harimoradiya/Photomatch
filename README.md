@@ -21,7 +21,7 @@ Photo Match is an Android application that allows users to find similar faces fr
 ## Video
 <p align='center'>
   <video width="320" height="240" controls>
-  <source src="https://firebasestorage.googleapis.com/v0/b/fir-demo-9e712.appspot.com/o/Screen_recording_20241228_123301.webm?alt=media&token=7766316a-1281-43fd-9375-515cbb242fba" type="video/webm">
+  <source src="https://firebasestorage.googleapis.com/v0/b/fir-demo-9e712.appspot.com/o/Screen_recording_20241014_183649.mp4?alt=media&token=7c4ee33d-ffd7-445b-9909-dbd3b079d51e" type="video/mp4">
 </video>
 </p>
 
